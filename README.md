@@ -6,6 +6,8 @@
 
 `meldify` is available via **npm** using this command:
 
-`npm install -g meldify`
+```
+npm install -g meldify
+```
 
 ## Getting Started
