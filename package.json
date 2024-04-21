@@ -1,7 +1,7 @@
 {
   "name": "@meldify/cli",
   "version": "0.0.1",
-  "description": "TODO",
+  "description": "The Meldify CLI allows you to set up projects using Meldify templates",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
