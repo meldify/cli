@@ -9,8 +9,13 @@ node_modules/
 # output
 lib/**/*.js
 bin/**/*.js
+commands/**/*.js
+actions/**/*.js
+
 lib/**/*.d.ts
 bin/**/*.d.ts
+commands/**/*.d.ts
+actions/**/*.d.ts
 
 # configuration
 renovate.json
