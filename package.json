@@ -1,6 +1,6 @@
 {
   "name": "@meldify/cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The Meldify CLI allows you to set up projects using Meldify templates",
   "main": "bin/meldify.js",
   "bin": {
